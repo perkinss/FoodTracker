@@ -434,7 +434,7 @@
 				DEVELOPMENT_TEAM = R4S4CL2EN6;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = HoldFast.FoodTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.hold-fast.FoodTracker";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -449,7 +449,7 @@
 				DEVELOPMENT_TEAM = R4S4CL2EN6;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = HoldFast.FoodTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = "ca.hold-fast.FoodTracker";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
