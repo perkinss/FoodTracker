@@ -15,6 +15,7 @@
 		02459FD32155536F009F6145 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02459FD12155536F009F6145 /* LaunchScreen.storyboard */; };
 		02459FDE2155536F009F6145 /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02459FDD2155536F009F6145 /* FoodTrackerTests.swift */; };
 		02459FE92155536F009F6145 /* FoodTrackerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02459FE82155536F009F6145 /* FoodTrackerUITests.swift */; };
+		02A679832159865C0067BB37 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A679822159865C0067BB37 /* RatingControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		02459FE42155536F009F6145 /* FoodTrackerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		02459FE82155536F009F6145 /* FoodTrackerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerUITests.swift; sourceTree = "<group>"; };
 		02459FEA2155536F009F6145 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02A679822159865C0067BB37 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				02459FC52155536E009F6145 /* AppDelegate.swift */,
 				02459FC72155536E009F6145 /* ViewController.swift */,
+				02A679822159865C0067BB37 /* RatingControl.swift */,
 				02459FC92155536E009F6145 /* Main.storyboard */,
 				02459FCF2155536F009F6145 /* Assets.xcassets */,
 				02459FD12155536F009F6145 /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02459FC82155536E009F6145 /* ViewController.swift in Sources */,
+				02A679832159865C0067BB37 /* RatingControl.swift in Sources */,
 				02459FC62155536E009F6145 /* AppDelegate.swift in Sources */,
 				02459FCE2155536F009F6145 /* FoodTracker.xcdatamodeld in Sources */,
 			);
